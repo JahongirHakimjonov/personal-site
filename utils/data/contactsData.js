@@ -3,9 +3,9 @@ export const contactsData = {
     phone: '+998330078587',
     address: 'Tashkent, Uzbekistan - 100000',
     github: 'https://github.com/JahongirHakimjonov',
-    facebook: 'https://www.facebook.com/ja_khan_gir/',
+    instagram: 'https://www.instagram.com/ja_khan_gir/',
     linkedIn: 'https://www.linkedin.com/in/jahongir-hakimjonov/',
     twitter: 'https://twitter.com/ja_khan_gir',
-    stackOverflow: 'https://stackoverflow.com/users/22560946/jahongir-hakimjonov',
+    telegram: 'https://t.me/ja_khan_gir',
     devUsername: "JahongirHakimjonov",
 }

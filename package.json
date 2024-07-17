@@ -23,9 +23,11 @@
     "react-toastify": "^10.0.4"
   },
   "devDependencies": {
+    "@babel/preset-flow": "^7.24.7",
     "autoprefixer": "latest",
     "eslint": "latest",
     "eslint-config-next": "latest",
+    "flow-bin": "^0.238.3",
     "postcss": "latest",
     "sass": "^1.69.5",
     "tailwindcss": "latest"

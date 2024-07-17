@@ -7,10 +7,10 @@ export const personalData = {
     phone: '+998330078587',
     address: 'Tashkent, Uzbekistan - 100000',
     github: 'https://github.com/JahongirHakimjonov',
-    facebook: 'https://www.facebook.com/ja_khan_gir/',
     linkedIn: 'https://www.linkedin.com/in/hakimjonov-jahongir/',
     twitter: 'https://twitter.com/ja_khan_gir',
-    stackOverflow: 'https://stackoverflow.com/users/22560946/jahongir-hakimjonov',
+    instagram: 'https://www.instagram.com/ja_khan_gir/',
+    telegram: 'https://t.me/ja_khan_gir',
     leetcode: "https://leetcode.com/ja_khan_gir/",
     devUsername: "JahongirHakimjonov",
     resume: "https://www.canva.com/design/DAGDHdnRcII/oMWsmW8fRmSDq_asvn2Kiw/edit?utm_content=DAGDHdnRcII&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
